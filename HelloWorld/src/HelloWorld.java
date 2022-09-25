@@ -3,6 +3,7 @@ public class HelloWorld {
     //Public means that it can be called in any part of the app
     public static void main(String [] args){
         System.out.println("Hello world from Java");
+
     }
 
 }
